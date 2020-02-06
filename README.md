@@ -12,9 +12,9 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 - [Tool](#tool)
 ---
 ## Documentation
-[Bedrock-docs](https://github.com/MisteFr/minecraft-bedrock-documentation.git) - Automatically generated protocol documentation, symbols list and entity ids list for Minecraft Bedrock Edition posted once a release or a beta is released.
-[Mcpe-docs](https://github.com/lukeeey/mcpe-docs) - Minecraft: Bedrock Edition Documenation
-[PEWS-API](https://github.com/jocopa3/PEWS-API.git) - A Java Websocket Server API implementation for the Pocket, Windows 10, and Education Editions of Minecraft.
+* [Bedrock-docs](https://github.com/MisteFr/minecraft-bedrock-documentation.git) - Automatically generated protocol documentation, symbols list and entity ids list for Minecraft Bedrock Edition posted once a release or a beta is released.
+* [Mcpe-docs](https://github.com/lukeeey/mcpe-docs) - Minecraft: Bedrock Edition Documenation
+* [PEWS-API](https://github.com/jocopa3/PEWS-API.git) - A Java Websocket Server API implementation for the Pocket, Windows 10, and Education Editions of Minecraft.
 
 ## Launcher
 * [BlockLauncher](https://github.com/zhuowei/MCPELauncher) - Source code for BlockLauncher, a launcher that patches Minecraft for Android.
@@ -54,7 +54,7 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 * [Php MC 3d Skin](https://github.com/supermamie/php-Minecraft-3D-skin.git) - Render a 3D view of a skin as a svg or png image.
 * [Skinview3d](https://github.com/bs-community/skinview3d.git) - Three.js powered Minecraft skin viewer.
 ## Tool
-* [Beidge](https://github.com/bridge-core/bridge..git) - Minecraft Add-on Editor.
+* [Bridge](https://github.com/bridge-core/bridge..git) - Minecraft Add-on Editor.
 * [FastBuilder](https://github.com/CAIMEOX/FastBuilder.git) - Minecraft PE Geometry Builder.
 * [Image-Map](https://github.com/tryashtar/image-map.git) - Converts image to maps for Minecraft Java and Bedrock.
 * [MCPE-VideoGenerator](https://github.com/haveyouwantto/MCBE-video-generator.git) - Minecraft Video Generator by HYWT
