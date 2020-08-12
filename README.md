@@ -35,28 +35,43 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 ## Proxy
 * [DragonProxy](https://github.com/DragonetMC/DragonProxy.git) - A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
 * [Geyser](https://github.com/GeyserMC/Geyser.git) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition. 
+* [Gophertunnel](https://github.com/Sandertv/gophertunnel.git) - A Minecraft library containing packages to create clients, servers, proxies and other tools, and a proxy implementation using them.
 * [MCMU](https://github.com/Fancyflame/MCMU.git) - A multiplayer proxy for Minecraft based on nodejs (MineCraft MUltiplayer)
 * [MCPE-Proxy](https://github.com/brandon15811/Minecraft-PE-Proxy.git) - Proxy for Minecraft Pocket Edition to connect to internet servers without app modification.
 * [Nemisys](https://github.com/iTXTech/Nemisys.git) - The Java implementation of standard Synapse Proxy Protocol.
+* [ProxProx](https://github.com/GoMint/ProxProx.git) - Proxy for MC:PE Networks
+* [WatchDog](https://github.com/yesdog/Waterdog.git) - Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.
 ## Server
-* [BDLauncher](https://github.com/BDLDev/bdlauncher.git) - BedRockServer launcher with mods support.
+* BedRockServer launcher with mods support.
+* [BDSX](https://github.com/karikera/bdsx.git) - BDSX: Minecraft Bedrock Dedicated Server + node.js!
 * [ClearSky](https://github.com/ClearSkyTeam/ClearSky.git) - ClearSky is an fast, clean PM spoon, while having many features. 
+* [DragonFly](https://github.com/df-mc/dragonfly.git) - Minecraft (Bedrock Edition) server software written in Go. 
+* [Element0](https://github.com/Element-0/ElementZero.git) - Run windows version of BDS in linux with Mod support.
+* [Foxel](https://github.com/BedrockPlay/Foxel.git) - PocketMine edited for BedrockPlay MCBE server (mc.bedrockplay.eu)
 * [GoMine](https://github.com/GoMint/GoMint.git) - A new fresh Minecraft: Bedrock Edition server.
 * [Genisys](https://github.com/iTXTech/Genisys.git) - Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.
+* [JSPrismarine](https://github.com/HerryYT/JSPrismarine.git) - Basic Minecraft Bedrock Edition software.
 * [Nukkit](https://github.com/Nukkit/Nukkit.git) - Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .
 * [NumerousAlpaca](https://github.com/PrismarineJS/numerous-alpaca.git) - A Minecraft Bedrock Edition server in JavaScript.
 * [MiNET](https://github.com/NiclasOlofsson/MiNET.git) - A (not so) basic Minecraft Pocket Edition server written in C#.
 * [Pocket Mine](https://github.com/pmmp/PocketMine-MP.git) - A server software for Minecraft: Bedrock Edition in PHP.
 * [PocketNode](https://github.com/PocketNode/PocketNode.git) - A server software for Minecraft: Bedrock written in Node.js.
+* [Podrum](https://github.com/Podrum/Podrum.git) - A minecraft (bedrock) server software written in python (3.X).
+* [Steadfast2](https://github.com/Hydreon/Steadfast2.git) - Minecraft PE Server Software.
 * [StoneServer](https://github.com/codehz/StoneServer.git) - A modded minecraft bedrock edition server.
 * [Voxelwind](https://github.com/voxelwind/voxelwind.git) - The high-performance Minecraft: Pocket Edition server (in development)
 ## Skinning and texturing
+
+- [Aseprite](https://github.com/aseprite/aseprite.git) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [ConvertJavaTextureToBedrock](https://github.com/ozelot379/ConvertJavaTextureToBedrock.git) - Web app for convert Minecraft Java texture packs to Bedrock texture packs.
+
 * [McUnicodeFontTextureGeneratorOnline](https://github.com/codehz/minecraft-unicode-font-texture-generator-online.git) - minecraft unicode font texture generator online(Static Web Page).
 * [Php MC 3d Skin](https://github.com/supermamie/php-Minecraft-3D-skin.git) - Render a 3D view of a skin as a svg or png image.
 * [ShadowSkin](https://github.com/Fancyflame/ShadowSkin) - A minecraft online skin editor.
 * [Skinview3d](https://github.com/bs-community/skinview3d.git) - Three.js powered Minecraft skin viewer.
 ## Tool
-* [Aquiver](https://github.com/CAIMEOX/Aquiver.git) - Playing video on Minecraft Bedrock!
+* [AddonToolchain](https://github.com/minecraft-addon-tools/minecraft-addon-toolchain.git) - Tools for building and workflow improvements for bedrock scripting.
+* [Aquiver](https://github.com/CAIMEOX/Aquiver.git) - Playing video on Minecraft Bedrock! (Privated)
 * [Bridge](https://github.com/bridge-core/bridge..git) - Minecraft Add-on Editor.
 * [FastBuilder](https://github.com/CAIMEOX/FastBuilder.git) - Minecraft PE Geometry Builder.
 * [Image-Map](https://github.com/tryashtar/image-map.git) - Converts image to maps for Minecraft Java and Bedrock.
