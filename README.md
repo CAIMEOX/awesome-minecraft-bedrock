@@ -8,7 +8,7 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 - [Mapping](#mapping)
 - [Proxy](#proxy)
 - [Server](#server)
-- [Skinning and texturing](#skinning-and-texturing)
+- [Skinning and texturing](#skinning-modeling-and-texturing)
 - [Tool](#tool)
 ---
 ## Documentation
@@ -39,14 +39,16 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 * [MCMU](https://github.com/Fancyflame/MCMU.git) - A multiplayer proxy for Minecraft based on nodejs (MineCraft MUltiplayer)
 * [MCPE-Proxy](https://github.com/brandon15811/Minecraft-PE-Proxy.git) - Proxy for Minecraft Pocket Edition to connect to internet servers without app modification.
 * [Nemisys](https://github.com/iTXTech/Nemisys.git) - The Java implementation of standard Synapse Proxy Protocol.
+* [Portal](https://github.com/Paroxity/portal.git) - A lightweight transfer proxy written in Go for Minecraft: Bedrock Edition.
 * [ProxProx](https://github.com/GoMint/ProxProx.git) - Proxy for MC:PE Networks
 * [WatchDog](https://github.com/yesdog/Waterdog.git) - Waterdog, a Yesdog fork of Waterfall/BungeeCord that adds Bedrock support.
 ## Server
 * BedRockServer launcher with mods support.
-* [BDSX](https://github.com/karikera/bdsx.git) - BDSX: Minecraft Bedrock Dedicated Server + node.js!
+* [BDSX](https://github.com/bdsx/bdsx.git) - BDSX: Minecraft Bedrock Dedicated Server + node.js!
 * [ClearSky](https://github.com/ClearSkyTeam/ClearSky.git) - ClearSky is an fast, clean PM spoon, while having many features. 
 * [DragonFly](https://github.com/df-mc/dragonfly.git) - Minecraft (Bedrock Edition) server software written in Go. 
 * [Element0](https://github.com/Element-0/ElementZero.git) - Run windows version of BDS in linux with Mod support.
+* [ElementZeroR](https://github.com/Element-0/ElementZeroR.git) - ElementZero, but re-designed (WIP)
 * [Foxel](https://github.com/BedrockPlay/Foxel.git) - PocketMine edited for BedrockPlay MCBE server (mc.bedrockplay.eu)
 * [GoMine](https://github.com/GoMint/GoMint.git) - A new fresh Minecraft: Bedrock Edition server.
 * [Genisys](https://github.com/iTXTech/Genisys.git) - Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.
@@ -60,9 +62,10 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 * [Steadfast2](https://github.com/Hydreon/Steadfast2.git) - Minecraft PE Server Software.
 * [StoneServer](https://github.com/codehz/StoneServer.git) - A modded minecraft bedrock edition server.
 * [Voxelwind](https://github.com/voxelwind/voxelwind.git) - The high-performance Minecraft: Pocket Edition server (in development)
-## Skinning and texturing
+## Skinning, modeling and texturing
 
 - [Aseprite](https://github.com/aseprite/aseprite.git) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+- [Blockbench](https://github.com/JannisX11/blockbench.git) - A boxy 3D model editor
 - [ConvertJavaTextureToBedrock](https://github.com/ozelot379/ConvertJavaTextureToBedrock.git) - Web app for convert Minecraft Java texture packs to Bedrock texture packs.
 
 * [McUnicodeFontTextureGeneratorOnline](https://github.com/codehz/minecraft-unicode-font-texture-generator-online.git) - minecraft unicode font texture generator online(Static Web Page).
@@ -73,6 +76,7 @@ A curated list of awesome Minecraft Bedrock plugin, tool and software.
 * [AddonToolchain](https://github.com/minecraft-addon-tools/minecraft-addon-toolchain.git) - Tools for building and workflow improvements for bedrock scripting.
 * [Aquiver](https://github.com/CAIMEOX/Aquiver.git) - Playing video on Minecraft Bedrock! (Privated)
 * [Bridge](https://github.com/bridge-core/bridge..git) - Minecraft Add-on Editor.
+* [CometIDE](https://github.com/itsu-dev/CometIDE.git) - Minecraft IDE Project (For Pocketmine-MP/Nukkit plugins, Addons, Mods...)
 * [FastBuilder](https://github.com/CAIMEOX/FastBuilder.git) - Minecraft PE Geometry Builder.
 * [Image-Map](https://github.com/tryashtar/image-map.git) - Converts image to maps for Minecraft Java and Bedrock.
 * [MCPE-VideoGenerator](https://github.com/haveyouwantto/MCBE-video-generator.git) - Minecraft Video Generator by HYWT
