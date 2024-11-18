@@ -13,10 +13,11 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
     - [Proxy](#proxy)
     - [Server](#server)
   - [Tool](#tool)
+    - [General](#general)
     - [Resource Pack Authoring](#resource-pack-authoring)
     - [Behavior Pack Authoring](#behavior-pack-authoring)
     - [World Editing](#world-editing)
-    - [Other Open Source Works](#other-open-source-works)
+    - [Other Works](#other-works)
   - [Visualization](#visualization)
 
 ---
@@ -79,18 +80,25 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [Genisys](https://github.com/iTXTech/Genisys.git) - Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.
 * [JSPrismarine](https://github.com/HerryYT/JSPrismarine.git) - Basic Minecraft Bedrock Edition software.
 * [LiteLoader](https://github.com/LiteLDev/LiteLoaderBDS) - An epoch-making cross-language plugin loader for Minecraft Bedrock Dedicated Server (BDS).
+* [LeviLamina](https://github.com/LiteLDev/LeviLamina) - A lightweight, modular and versatile mod loader for Minecraft Bedrock Edition, formerly known as LiteLoaderBDS
 * [Nukkit](https://github.com/Nukkit/Nukkit.git) - Nukkit is a Nuclear-Powered Server Software For Minecraft: Pocket Edition .
 * [NumerousAlpaca](https://github.com/PrismarineJS/numerous-alpaca.git) - A Minecraft Bedrock Edition server in JavaScript.
 * [MiNET](https://github.com/NiclasOlofsson/MiNET.git) - A (not so) basic Minecraft Pocket Edition server written in C#.
 * [Pocket Mine](https://github.com/pmmp/PocketMine-MP.git) - A server software for Minecraft: Bedrock Edition in PHP.
 * [PocketNode](https://github.com/PocketNode/PocketNode.git) - A server software for Minecraft: Bedrock written in Node.js.
 * [Podrum](https://github.com/Podrum/Podrum.git) - A minecraft (bedrock) server software written in python (3.X).
+* [Serenity](https://github.com/SerenityJS/serenity) - A Minecraft Bedrock Edition Server Software
 * [Steadfast2](https://github.com/Hydreon/Steadfast2.git) - Minecraft PE Server Software.
 * [StoneServer](https://github.com/codehz/StoneServer.git) - A modded minecraft bedrock edition server.
 * [Voxelwind](https://github.com/voxelwind/voxelwind.git) - The high-performance Minecraft: Pocket Edition server (in development)
 
 
 ## Tool
+
+### General
+
+* [MCBE Essentials](https://github.com/MCBE-Essentials/mcbe-essentials.github.io) - MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easier
+* [SuitcaseJS](https://github.com/TBroz15/SuitcaseJS) - State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.
 
 ### Resource Pack Authoring
 
@@ -105,7 +113,6 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [JsonUI Scripting](https://github.com/asakiyuki/JsonUI-Scripting) - A library used to create UI packs for Minecraft: Bedrock Edition
 * [MCPE-VideoGenerator](https://github.com/haveyouwantto/MCBE-video-generator.git) - Minecraft Video Generator by HYWT
 
-
 ### Behavior Pack Authoring
 
 * [AddonToolchain](https://github.com/minecraft-addon-tools/minecraft-addon-toolchain.git) - Tools for building and workflow improvements for bedrock scripting.
@@ -113,18 +120,23 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [BeAPI](https://github.com/MCBE-Utilities/BeAPI.git) - MCBE GameTest Wrapper - Bedrock Edition API
 * [Image-Map](https://github.com/tryashtar/image-map.git) - Converts image to maps for Minecraft Java and Bedrock.
 * [Loot-Table Generator](https://github.com/Bedrock-OSS/bedrock-loot-gen) - Website for creating Bedrock Edition loot tables.
+* [Block Core](https://github.com/VoxlDevv/BlockCore) - Minecraft Bedrock API Wrapper.
 
 ### World Editing
 
 * [FastBuilder](https://github.com/CAIMEOX/FastBuilder.git) - Minecraft PE Geometry Builder.
+* [Leveldb-mcpe](https://github.com/Mojang/leveldb-mcpe.git) - A fork of Google's LevelDB with added zlib compression and windows support.
+* [NBT Studio](https://github.com/tryashtar/nbt-studio) - An up-to-date NBT viewer and editor with lots of new features
 * [VoxelGeometry](https://github.com/CAIMEOX/VoxelGeometry.git) - Gametest based Minecraft geometry structure generator.
 * [WorldDownloader](https://github.com/Frago9876543210/WorldDownloader.git) - Mod for minecraft-linux/mcpelauncher-client which collects chunks sent over network from server.
-* [WorldEdit-BE](https://github.com/SIsilicon/WorldEdit-BE.git) - A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition.
-* [Leveldb-mcpe](https://github.com/Mojang/leveldb-mcpe.git) - A fork of Google's LevelDB with added zlib compression and windows support.
+* [WorldEdit-BE](https://github.com/SIsilicon/WorldEdit-BE.git) - A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition
 
-### Other Open Source Works
+### Other Works
+
+* [Faithful-Bedrock-64x](https://github.com/Faithful-Resource-Pack/Faithful-Bedrock-64x) - The official repository for the Bedrock version of Faithful 64x
 * [MyAgent](https://github.com/mcpews/MyAgent.git) - A agent generator and controller written in node.js.
 * [Scythe-AntiCheat](https://github.com/MrDiamond64/Scythe-AntiCheat.git) - The best minecraft bedrock anti-cheat designed for realms, worlds and servers.
+* [RainbowPieUI2](https://github.com/MintCoolMC/MCBE_RainbowPieUI2) - Minecraft Bedrock Edition UI
 
 ## Visualization
 
@@ -132,4 +144,5 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [Blocktopograph](https://github.com/protolambda/blocktopograph.git) - Blocktopograph is a fan-made app for MCPE, it includes a top-down world viewer and a NBT editor.
 * [Mcedit2](https://github.com/mcedit/mcedit2.git) - MCEdit 2.0 - World Editor for Minecraft.
 * [McpeViz](https://github.com/Plethora777/mcpe_viz.git) - Minecraft Pocket Edition (MCPE) World Visualization & Reporting Tool with Web App.
+* [Molang Grapher](https://github.com/JannisX11/molang-grapher) - MoLang Grapher
 * [Papyruscs](https://github.com/mjungnickel18/papyruscs.git) - PapyrusCS renders maps of Minecraft: Bedrock Edition worlds using C#, LevelDB and leaflet.
