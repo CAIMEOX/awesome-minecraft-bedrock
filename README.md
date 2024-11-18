@@ -1,6 +1,7 @@
 # Awesome Minecraftpe
-​	A curated list of awesome Minecraft Bedrock plugin, tool and software.
-**If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
+​A curated list of awesome Minecraft Bedrock plugin, tool and software.
+To contribute, please read the [contribution guidelines](contributing.md) first.
+
 ## Contents
 - [Awesome Minecraftpe](#awesome-minecraftpe)
   - [Contents](#contents)
@@ -115,15 +116,15 @@
 
 ### World Editing
 
-- [FastBuilder](https://github.com/CAIMEOX/FastBuilder.git) - Minecraft PE Geometry Builder.
-- [VoxelGeometry](https://github.com/CAIMEOX/VoxelGeometry.git) - Gametest based Minecraft geometry structure generator.
-- [WorldDownloader](https://github.com/Frago9876543210/WorldDownloader.git) - Mod for minecraft-linux/mcpelauncher-client which collects chunks sent over network from server.
-- [WorldEdit-BE](https://github.com/SIsilicon/WorldEdit-BE.git) - A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition.
+* [FastBuilder](https://github.com/CAIMEOX/FastBuilder.git) - Minecraft PE Geometry Builder.
+* [VoxelGeometry](https://github.com/CAIMEOX/VoxelGeometry.git) - Gametest based Minecraft geometry structure generator.
+* [WorldDownloader](https://github.com/Frago9876543210/WorldDownloader.git) - Mod for minecraft-linux/mcpelauncher-client which collects chunks sent over network from server.
+* [WorldEdit-BE](https://github.com/SIsilicon/WorldEdit-BE.git) - A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition.
 * [Leveldb-mcpe](https://github.com/Mojang/leveldb-mcpe.git) - A fork of Google's LevelDB with added zlib compression and windows support.
 
 ### Other Open Source Works
-- [MyAgent](https://github.com/mcpews/MyAgent.git) - A agent generator and controller written in node.js.
-- [Scythe-AntiCheat](https://github.com/MrDiamond64/Scythe-AntiCheat.git) - The best minecraft bedrock anti-cheat designed for realms, worlds and servers.
+* [MyAgent](https://github.com/mcpews/MyAgent.git) - A agent generator and controller written in node.js.
+* [Scythe-AntiCheat](https://github.com/MrDiamond64/Scythe-AntiCheat.git) - The best minecraft bedrock anti-cheat designed for realms, worlds and servers.
 
 ## Visualization
 

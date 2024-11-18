@@ -10,3 +10,7 @@ Feel free to open a pull request with your project. Just make sure it meets the 
 - The project's description is written in English
 - The project's description is not longer than 200 characters
 - The project is in the correct category
+
+## Updating a project
+
+If you see a package or project here that is no longer maintained or is not a good fit, you can open a pull request to improve this file.
