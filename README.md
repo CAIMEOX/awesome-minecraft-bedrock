@@ -97,8 +97,9 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### General
 
-* [MCBE Essentials](https://github.com/MCBE-Essentials/mcbe-essentials.github.io) - MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easier
+* [MCBE Essentials](https://github.com/MCBE-Essentials/mcbe-essentials.github.io) - MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh
 * [SuitcaseJS](https://github.com/TBroz15/SuitcaseJS) - State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.
+* [Minecraft ServerHub](https://minecraft-serverhub.com) - A modern server list with live status monitoring, MOTD creator, and free REST API for Bedrock Edition servers.
 
 ### Resource Pack Authoring
 
