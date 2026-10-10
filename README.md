@@ -97,6 +97,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 
 ### General
 
+* [Bedrock Pack Check](https://bedrockpackcheck.site/) - Local format-2 manifest declaration checker for JSON, UUIDs and modules; does not upload pack text or certify in-game compatibility.
 * [MCBE Essentials](https://github.com/MCBE-Essentials/mcbe-essentials.github.io) - MCBE Essentials is a collection of tools for Minecraft Bedrock Edition developers intended to make life easierh
 * [SuitcaseJS](https://github.com/TBroz15/SuitcaseJS) - State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.
 * [Minecraft ServerHub](https://minecraft-serverhub.com) - A modern server list with live status monitoring, MOTD creator, and free REST API for Bedrock Edition servers.
