@@ -43,6 +43,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [GenericLauncher](https://github.com/byteandahalf/GenericLauncher.git) - Launcher template for programmers to create their own MCPE hacked client/launcher
 * [MCPELauncher](https://github.com/minecraft-linux/mcpelauncher-manifest.git) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
 * [Mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher.git) - Windows 10 Multi-Version launcher.
+* [Minecraft-Bedrock-macOS](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) - Runs your own copy of Windows Bedrock Edition offline on Apple silicon Macs through a locally built WineGDK and DXMT to Metal, shipped as a DMG launcher.
 * [ModdedPE](https://github.com/TimScriptov/ModdedPE.git) - ModdedPE is a launcher which allows you to open Minecraft PE and load NMods. ModdedPE can also be used as a library for your project.
 
 ## Networking
@@ -101,6 +102,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [SuitcaseJS](https://github.com/TBroz15/SuitcaseJS) - State of the art Minecraft Bedrock Behavior and Resource Pack Compiler.
 * [Minecraft ServerHub](https://minecraft-serverhub.com) - A modern server list with live status monitoring, MOTD creator, and free REST API for Bedrock Edition servers.
 * [Golem](https://github.com/achedon12/golem) - Integration testing for PocketMine-MP plugins: boots a real server, spawns simulated players and checks what they see, locally or in GitHub Actions.
+* [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.
 * [ServerBuddy](https://serverbuddy.net) - Java and Bedrock server discovery with live status, player count history, uptime, MOTDs, and version history.
 
 ### Resource Pack Authoring
