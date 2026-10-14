@@ -43,6 +43,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [GenericLauncher](https://github.com/byteandahalf/GenericLauncher.git) - Launcher template for programmers to create their own MCPE hacked client/launcher
 * [MCPELauncher](https://github.com/minecraft-linux/mcpelauncher-manifest.git) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.
 * [Mc-w10-version-launcher](https://github.com/MCMrARM/mc-w10-version-launcher.git) - Windows 10 Multi-Version launcher.
+* [Minecraft-Bedrock-macOS](https://github.com/pragyaangaur/Minecraft-Bedrock-macOS) - Runs your own copy of Windows Bedrock Edition offline on Apple silicon Macs through a locally built WineGDK and DXMT to Metal, shipped as a DMG launcher.
 * [ModdedPE](https://github.com/TimScriptov/ModdedPE.git) - ModdedPE is a launcher which allows you to open Minecraft PE and load NMods. ModdedPE can also be used as a library for your project.
 
 ## Networking
