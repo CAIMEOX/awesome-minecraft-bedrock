@@ -103,6 +103,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [Minecraft ServerHub](https://minecraft-serverhub.com) - A modern server list with live status monitoring, MOTD creator, and free REST API for Bedrock Edition servers.
 * [Golem](https://github.com/achedon12/golem) - Integration testing for PocketMine-MP plugins: boots a real server, spawns simulated players and checks what they see, locally or in GitHub Actions.
 * [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring with a Minecraft check that pings Bedrock (and Java) servers and alerts on downtime or low player count.
+* [EnchantCalc](https://enchantcalc.com) - Free web calculator for the cheapest enchantment/anvil order in Bedrock and Java, plus XP and Nether portal calculators.
 
 ### Resource Pack Authoring
 
