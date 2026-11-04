@@ -142,6 +142,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [MyAgent](https://github.com/mcpews/MyAgent.git) - A agent generator and controller written in node.js.
 * [Scythe-AntiCheat](https://github.com/MrDiamond64/Scythe-AntiCheat.git) - The best minecraft bedrock anti-cheat designed for realms, worlds and servers.
 * [RainbowPieUI2](https://github.com/MintCoolMC/MCBE_RainbowPieUI2) - Minecraft Bedrock Edition UI
+* [MowanBox](https://github.com/Bemly/mowanbox-mc) - An iOS jailbreak tweak that adds an in-game overlay mod menu to Minecraft PE (0.10-1.20) for local single-player worlds.
 
 ## Visualization
 
