@@ -76,6 +76,7 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [DragonFly](https://github.com/df-mc/dragonfly.git) - Minecraft (Bedrock Edition) server software written in Go. 
 * [Element0](https://github.com/Element-0/ElementZero.git) - Run windows version of BDS in linux with Mod support.
 * [ElementZeroR](https://github.com/Element-0/ElementZeroR.git) - ElementZero, but re-designed (WIP)
+* [Falcon](https://github.com/Falcon-MC/Falcon) - A Minecraft Bedrock Edition server written from scratch in C++17, aiming for vanilla parity with the dedicated server, with plugins in C++, Java and add-ons.
 * [Foxel](https://github.com/BedrockPlay/Foxel.git) - PocketMine edited for BedrockPlay MCBE server (mc.bedrockplay.eu)
 * [GoMine](https://github.com/GoMint/GoMint.git) - A new fresh Minecraft: Bedrock Edition server.
 * [Genisys](https://github.com/iTXTech/Genisys.git) - Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta.
