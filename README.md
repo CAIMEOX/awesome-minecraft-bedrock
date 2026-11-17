@@ -152,3 +152,4 @@ To contribute, please read the [contribution guidelines](contributing.md) first.
 * [McpeViz](https://github.com/Plethora777/mcpe_viz.git) - Minecraft Pocket Edition (MCPE) World Visualization & Reporting Tool with Web App.
 * [Molang Grapher](https://github.com/JannisX11/molang-grapher) - MoLang Grapher
 * [Papyruscs](https://github.com/mjungnickel18/papyruscs.git) - PapyrusCS renders maps of Minecraft: Bedrock Edition worlds using C#, LevelDB and leaflet.
+* [Seed Map Viewer](https://seedmapviewer.com/) - Free web seed map viewer with Bedrock support: biome maps and structure finders, including all 128 strongholds per seed.
